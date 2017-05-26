@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">A Music App</string>
+    <string name="artist_song_station">Artist - Song - Station</string>
+
+    <!-- Strings for the description text boxes -->
+    <string name="main_page">This is the main page of the Musical Structure app, with buttons for all the other activities that can be accessed inside the app.</string>
+    <string name="fm_radio_page">This is the FM Radio screen, where users can find and listen to local FM Radio stations.</string>
+    <string name="fm_radio_page_detail">The screen contains an FM radio manual tuner with the found radio station name displayed and an add to favorites star toggle button.</string>
+    <string name="internet_radio_page">This is the Internet Radio screen, where users can find and listen to Internet Radio stations.</string>
+    <string name="internet_radio_page_detail">The screen contains an EditText view for manually entering a radio station URL, and also a list of available internet radio stations.</string>
+    <string name="my_music_page">This is the My Music screen, where users can see and play the music which is stored on the device.</string>
+    <string name="my_music_page_detail">The screen contains an EditText view for searching through files and a list of available music from the device.</string>
+    <string name="favorites_page">This is the Favorites screen, where users can see their favorite songs from the device and also the local or internet radio stations they added.</string>
+    <string name="favorites_page_detail">The screen contains a list of songs, FM or internet radio stations listed in the order they were added to favorites by the user.</string>
+
+    <!-- Button names -->
+    <string name="fm_radio">FM Radio</string>
+    <string name="internet_radio"> Internet Radio</string>
+    <string name="my_music"> My Music</string>
+    <string name="favorites">Favorites</string>
+
+    <!-- strings from the fm radio screen -->
+    <string name="frequency">92.2 FM</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="rockfm">ROCK FM</string>
+
+    <!-- strings from the internet radio screen -->
+    <string name="internet_radio_hint">Enter URL here</string>
+    <string name="search_go_button">Go</string>
+    <string name="stations_list">Open FM\n\nBlast Radio\n\nWNYX Radio\n\nRetro Rewind FM</string>
+
+    <!-- strings from the my music screen -->
+    <string name="my_music_hint">Search for songs</string>
+    <string name="my_music_list">Dimension - Dark Lights\n\nEd Solo and Deekline - Always RIP\n\nLondon Grammar - Strong\n\nMajor Look - Too Late\n\nNetsky - Rio\n\nUtah Saints - Something Good</string>
+
+    <!-- strings from the favorites screen -->
+    <string name="favorites_list">2017-05-11 Daft Punk - Get Lucky\n\n2017-05-10 Blast Radio - Radio Station\n\n2017-05-05 RMS - Back to reality\n\n2017-05-01 London Grammar - Strong</string>
+
+</resources>
